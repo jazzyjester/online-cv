@@ -14,8 +14,7 @@ sidebar:
     # Sidebar links
     email: jazzyjester@gmail.com
     phone: +972 547831838
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: ronny-remesnik-12688a27
     github: jazzyjester
     gitlab:
     bitbucket:
@@ -44,13 +43,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+An Android programmer with over 6 years of experience, including Java and Kotlin application development.
+I'm responsible for sending the application to google play store and handling the application's lifecycle.
+In the last four years I have been a Senior Programmer in a strong team of 4 other Senior Programmers.
+In my current job I am responsible for developing and leading features, infrastructure development and architecture, investigation and debugging, working closely with designers and project managers.      
 
 education:
     - degree: MSc in Computer Science
