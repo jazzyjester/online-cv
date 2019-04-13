@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: jazzyjester@gmail.com
     phone: +972 547831838
-    linkedin: ronny-remesnik-12688a27
+    linkedin: ronny-remesnik
     github: jazzyjester
     gitlab:
     bitbucket:
@@ -59,14 +59,14 @@ education:
       time: 2008 - 2012
 
 experiences:
-    - role: Seniour Android Developer
+    - role: Senior Android Developer
       time: 2015 - Present
       company: Autodesk, Israel
       details: |
         Watch your home design ideas come to life within a photograph of your own 
         space by experimenting with high quality 3D models of real products. 
 
-        * Development if the BIM360 app - platform for construction management.
+        * Development of the BIM360 app - platform for construction management.
         * Development of the Homestyler Android mobile app. 
         * Development of the Spark, Market Place Mobile Android SDK. 
         * Development of Google Cardboard & Tango Related Projects.
