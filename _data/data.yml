@@ -43,10 +43,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-An Android programmer with over 6 years of experience, including Java and Kotlin application development.
-I'm responsible for sending the application to google play store and handling the application's lifecycle.
-In the last four years I have been a Senior Programmer in a strong team of 4 other Senior Programmers.
-In my current job I am responsible for developing and leading features, infrastructure development and architecture, investigation and debugging, working closely with designers and project managers.      
+        An Android programmer with over 6 years of experience, 
+        including Java and Kotlin application development.
+        I'm responsible for sending the application to google play store 
+        and handling the application's lifecycle.
+        In the last four years I have been a Senior Programmer 
+        in a strong team of 4 other Senior Programmers.
+        In my current job I am responsible for developing and leading features, 
+        infrastructure development and architecture, investigation and debugging,
+        working closely with designers and project managers.      
 
 education:
     - degree: MSc in Computer Science
