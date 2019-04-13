@@ -54,50 +54,23 @@ career-profile:
         working closely with designers and project managers.      
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - degree: BSc in Computer Software Engineering
+      university: Afeka Tel Aviv Academic College of Engineering
+      time: 2008 - 2012
 
 experiences:
-    - role: Lead Developer
+    - role: Seniour Android Developer
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: Autodesk, Israel
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Watch your home design ideas come to life within a photograph of your own 
+        space by experimenting with high quality 3D models of real products. 
 
-          - Bullet point
-          - Bullet point
-
+        * Development if the BIM360 app - platform for construction management.
+        * Development of the Homestyler Android mobile app. 
+        * Development of the Spark, Market Place Mobile Android SDK. 
+        * Development of Google Cardboard & Tango Related Projects.
+        
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
