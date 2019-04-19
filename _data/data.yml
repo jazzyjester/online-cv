@@ -71,19 +71,21 @@ experiences:
         * Development of the Spark, Market Place Mobile Android SDK. 
         * Development of Google Cardboard & Tango Related Projects.
         
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Senior Android Developer
+      time: 2012 - 2014
+      company: Artbit - The Art App
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Artbit is the biggest crowd-sourced art database of its kind, base on image recognition, 
+        offering the easiest and most engaging way to interact with art, anywhere, anytime.
+        It's the app for art.
+        During my work at Artbit I was responsible for Android artbit App full development lifecycle.
 
-          - Bullet point
-          - Bullet point
-
+          - Design, Development and Implementation of the Android Artbit app.
+          - Integrating Augmented Reality Engine - QCAR Vuforia(Qualcomm) from early releases with JNI until final versions with only java library.
+          - Implementing 3D features on top of Vuforia engine such as 3D objects, 3D object animations, 3D Video overlays, markers in c++ and java. 
+          - Integrating Facebook SDK and Analytic tools such as Google Analytics, Mixpanel.
+          - Developing custom UI elements and using 3rd party open source libraries.
+          
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
