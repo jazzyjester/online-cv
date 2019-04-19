@@ -73,7 +73,7 @@ experiences:
         
     - role: Senior Android Developer
       time: 2012 - 2014
-      company: Artbit - The Art App
+      company: Artbit - The Art App, Israel
       details: |
         Artbit is the biggest crowd-sourced art database of its kind, base on image recognition, 
         offering the easiest and most engaging way to interact with art, anywhere, anytime.
@@ -86,18 +86,28 @@ experiences:
           - Integrating Facebook SDK and Analytic tools such as Google Analytics, Mixpanel.
           - Developing custom UI elements and using 3rd party open source libraries.
           
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Developer (Student, Part time)
+      time: 2011 - 2012
+      company: Tamal, Israel
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Tamal sets the standard in the field of payroll software and financial accounting.
+        In my work at Tamal I was responsible for 
 
-          - Bullet point
-          - Bullet point
+          - Developing software components for Web Service (C#).
+          - Specifications and Design of GUI, improoving current interfaces.(Delphi 6-7)
+          - Developing new product capabilities like Digital PDF Signature, SMS Services.
+
+    - role: Software Developer
+      time: 2007 - 2008
+      company: Tamal, Israel
+      details: |
+        Software Developer At Retalix
+        Point Of Sale Development Team.
+
+          - Cash registers software development. (C# 2.0-4.0, Delphi 5-7, Paradox/Interbase, Delphi)
+          - Working with both Israeli and international customers (USA, Australia, South Asia, Europe), also on client sites.
+          - Code analyze and research, finding difficult memory leaks.
+          
 
 projects:
     title: Projects
