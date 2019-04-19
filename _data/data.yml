@@ -40,6 +40,9 @@ sidebar:
       - item: Drums
         link:
 
+      - item: Juggling
+        link:
+
 career-profile:
     title: Career Profile
     summary: |
@@ -99,7 +102,7 @@ experiences:
 
     - role: Software Developer
       time: 2007 - 2008
-      company: Tamal, Israel
+      company: Retalix, Israel
       details: |
         Software Developer At Retalix
         Point Of Sale Development Team.
@@ -123,23 +126,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Kotlin
         level: 98%
 
-      - name: Angular
+      - name: C#
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: C++
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Delphi
+        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
